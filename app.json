@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Ifome",
-    "slug": "Ifome",
+    "name": "app-ifome",
+    "slug": "app-ifome",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
